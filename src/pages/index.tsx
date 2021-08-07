@@ -6,6 +6,7 @@ const IndexPage = () => {
       Index
       <style jsx>{`
         .index {
+          font-weight: 600;
         }
       `}</style>
     </div>
